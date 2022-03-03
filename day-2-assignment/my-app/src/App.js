@@ -1,23 +1,22 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
-  
+  const operatingSystem = ["Android", "Blakberry" ,"iPhone", "Windows Phone"]
+  const mobile = ["Samsung" ,"HTC" ,"Micromax" ,"Apple"]
   return (
     <div className="App">
-      <h1>Mobile Oprerating System</h1>
-      <ul>
-        <li>Android</li>
-        <li>Blakberry</li>
-        <li>iPhone</li>
-        <li>Windows Phone</li>
+     <h1>Mobile operating sytem</h1>
+      <ul> 
+        {operatingSystem.map((el) => (
+          <li>{ el}</li>
+        ))}
       </ul>
-      <h1>Mobile Manufactures</h1>
-      <ul>
-        <li>Samsung</li>
-        <li>HTC</li>
-        <li>Micromax</li>
-        <li>Apple</li>
+      <h1>Mobile Manufacturers</h1>
+      <ul> 
+        {mobile.map((el) => (
+          <li>{ el}</li>
+        ))}
       </ul>
     </div>
   );
