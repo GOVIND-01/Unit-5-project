@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+.App h1{
+  color: aquamarine;
+}
+.App h1 span{
+  color: lime;
+}
+.inc{
+  padding: 5px;
+  background-color: bisque;
+  color: black;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+.dec{
+  padding: 5px;
+  background-color: bisque;
+  color: black;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+.dou{
+  padding: 5px;
+  background-color: bisque;
+  color: black;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+
