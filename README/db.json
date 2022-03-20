@@ -1,0 +1,39 @@
+{
+  "Groceries": [
+    {
+      "title": "gsfgfg",
+      "purchase": false,
+      "id": 1
+    },
+    {
+      "title": "gsfgfg",
+      "purchase": false,
+      "id": 2
+    },
+    {
+      "title": "gsfgfg",
+      "purchase": false,
+      "id": 3
+    },
+    {
+      "title": "gsfgfg",
+      "purchase": false,
+      "id": 4
+    },
+    {
+      "title": "gsfgfg",
+      "purchase": false,
+      "id": 5
+    },
+    {
+      "title": "gsfgfg",
+      "purchase": false,
+      "id": 6
+    },
+    {
+      "title": "kurkure",
+      "purchase": false,
+      "id": 7
+    }
+  ]
+}
