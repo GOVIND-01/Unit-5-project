@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "username": "Ash",
+      "mobile": "23215",
+      "email": "sdfraggggg",
+      "salary": "2313321",
+      "marital state": "on",
+      "id": 1
+    },
+    {
+      "name": "Ashwini Nagargoje",
+      "age": "21",
+      "address": "aaa@gmail.com",
+      "department": "student",
+      "salary": "763273",
+      "maritalState": "on",
+      "id": 2
+    },
+    {
+      "name": "ash",
+      "age": "22",
+      "address": "ash@gmailcom",
+      "department": "student",
+      "salary": "8674634",
+      "maritalState": "on",
+      "id": 3
+    },
+    {
+      "id": 4
+    }
+  ]
+}
