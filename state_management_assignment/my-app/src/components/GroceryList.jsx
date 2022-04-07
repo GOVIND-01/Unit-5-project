@@ -1,6 +1,8 @@
-export const GroceryList =({grocery})=>{
+
+export const GroceryList =({grocery, DeleteItm})=>{
     return(
-        <div className="itemdiv">{grocery.title} <button onClick={(grocery)=>{
+        <div className="itemdiv">{grocery.title} <button onClick={()=>{
+            DeleteItm(grocery.id);
         }}>Delete</button></div>
     );
 }
