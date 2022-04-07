@@ -1,0 +1,194 @@
+{
+  "data" : [
+        {
+            "id":1,
+            "name":"Khana khajana resturants",
+            "cost for one": 250,
+            "rating":3,
+            "paymentMethod":"Cash",
+            "total votes":300,
+            "review":500,
+            "categories":"Indian, chinees, italian"
+        },
+        {
+            "id":2,
+            "name":"Punjabi dhabha",
+            "cost for one": 150,
+            "rating":3,
+            "paymentMethod":"Cash",
+            "total votes":200,
+            "review":500,
+            "categories":"Indian, punjabi"
+        },
+        {
+            "id":3,
+            "name":"Agrawal Sweets",
+            "cost for one": 200,
+            "rating":3,
+            "paymentMethod":"Cash",
+            "total votes":350,
+            "review":500,
+            "categories":"Indian, chinees, Sweets"
+        },
+        {
+            "id":4,
+            "name":"Pure veg dhabha",
+            "cost for one": 150,
+            "rating":3,
+            "paymentMethod":"Cash",
+            "total votes":200,
+            "review":500,
+            "categories":"Indian, Thali, Biryani"
+        },
+        {
+            "id":5,
+            "name":"Khana khajana resturants",
+            "cost for one": 250,
+            "rating":3,
+            "paymentMethod":"Casth",
+            "total votes":300,
+            "review":500,
+            "categories":"Indian, chinees, italian"
+        },
+        {
+            "id":6,
+            "name":"Khana khajana resturants",
+            "cost for one": 250,
+            "rating":3,
+            "paymentMethod":"Casth",
+            "total votes":300,
+            "review":500,
+            "categories":"Indian, chinees, italian"
+        },
+        {
+            "id":7,
+            "name":"Khana khajana resturants",
+            "cost for one": 250,
+            "rating":3,
+            "paymentMethod":"Casth",
+            "total votes":300,
+            "review":500,
+            "categories":"Indian, chinees, italian"
+        },
+        {
+            "id":8,
+            "name":"Khana khajana resturants",
+            "cost for one": 250,
+            "rating":3,
+            "paymentMethod":"Casth",
+            "total votes":300,
+            "review":500,
+            "categories":"Indian, chinees, italian"
+        },
+        {
+            "id":9,
+            "name":"Khana khajana resturants",
+            "cost for one": 250,
+            "rating":3,
+            "paymentMethod":"Casth",
+            "total votes":300,
+            "review":500,
+            "categories":"Indian, chinees, italian"
+        },
+        {
+            "id":10,
+            "name":"Khana khajana resturants",
+            "cost for one": 250,
+            "rating":3,
+            "paymentMethod":"Casth",
+            "total votes":300,
+            "review":500,
+            "categories":"Indian, chinees, italian"
+        },
+        {
+            "id":11,
+            "name":"Khana khajana resturants",
+            "cost for one": 250,
+            "rating":3,
+            "paymentMethod":"Casth",
+            "total votes":300,
+            "review":500,
+            "categories":"Indian, chinees, italian"
+        },
+        {
+            "id":13,
+            "name":"Khana khajana resturants",
+            "cost for one": 250,
+            "rating":3,
+            "paymentMethod":"Casth",
+            "total votes":300,
+            "review":500,
+            "categories":"Indian, chinees, italian"
+        },
+        {
+            "id":14,
+            "name":"Khana khajana resturants",
+            "cost for one": 250,
+            "rating":3,
+            "paymentMethod":"Casth",
+            "total votes":300,
+            "review":500,
+            "categories":"Indian, chinees, italian"
+        },
+        {
+            "id":15,
+            "name":"Khana khajana resturants",
+            "cost for one": 250,
+            "rating":3,
+            "paymentMethod":"Casth",
+            "total votes":300,
+            "review":500,
+            "categories":"Indian, chinees, italian"
+        },
+        {
+            "id":16,
+            "name":"Khana khajana resturants",
+            "cost for one": 250,
+            "rating":3,
+            "paymentMethod":"Casth",
+            "total votes":300,
+            "review":500,
+            "categories":"Indian, chinees, italian"
+        },
+        {
+            "id":17,
+            "name":"Khana khajana resturants",
+            "cost for one": 250,
+            "rating":3,
+            "paymentMethod":"Casth",
+            "total votes":300,
+            "review":500,
+            "categories":"Indian, chinees, italian"
+        },
+        {
+            "id":18,
+            "name":"Khana khajana resturants",
+            "cost for one": 250,
+            "rating":3,
+            "paymentMethod":"Casth",
+            "total votes":300,
+            "review":500,
+            "categories":"Indian, chinees, italian"
+        },
+        {
+            "id":19,
+            "name":"Khana khajana resturants",
+            "cost for one": 250,
+            "rating":3,
+            "paymentMethod":"Casth",
+            "total votes":300,
+            "review":500,
+            "categories":"Indian, chinees, italian"
+        },
+        {
+            "id":20,
+            "name":"Khana khajana resturants",
+            "cost for one": 250,
+            "rating":3,
+            "paymentMethod":"Casth",
+            "total votes":300,
+            "review":500,
+            "categories":"Indian, chinees, italian"
+        }
+    ]
+}
