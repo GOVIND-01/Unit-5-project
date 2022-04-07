@@ -29,8 +29,6 @@ export const ResturantDetails=()=>{
                 <ul>
                   <li>Id: {detail.id}</li>
                   <li>Name: {detail.name}</li>
-                  {/* <li>Age: {employee.age}</li>
-                  <li>City: {employee.city}</li> */}
                 </ul>
                 <hr />
               </>
