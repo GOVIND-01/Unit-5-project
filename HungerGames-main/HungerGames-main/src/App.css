@@ -1,0 +1,23 @@
+.nameh1{
+  text-align: center;
+}
+body{
+  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/000/668/983/small/pastel-watercolor-texture-background.jpg");
+}
+img{
+  width: 300px;
+  height: 250px;
+  border: 10px double navy;
+  border-radius: 40px ;
+}
+.toggle{
+  padding: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(132, 215, 243);
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}

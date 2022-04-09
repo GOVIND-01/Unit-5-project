@@ -1,194 +1,365 @@
 {
-  "data" : [
-        {
-            "id":1,
-            "name":"Khana khajana resturants",
-            "cost for one": 250,
-            "rating":3,
-            "paymentMethod":"Cash",
-            "total votes":300,
-            "review":500,
-            "categories":"Indian, chinees, italian"
-        },
-        {
-            "id":2,
-            "name":"Punjabi dhabha",
-            "cost for one": 150,
-            "rating":3,
-            "paymentMethod":"Cash",
-            "total votes":200,
-            "review":500,
-            "categories":"Indian, punjabi"
-        },
-        {
-            "id":3,
-            "name":"Agrawal Sweets",
-            "cost for one": 200,
-            "rating":3,
-            "paymentMethod":"Cash",
-            "total votes":350,
-            "review":500,
-            "categories":"Indian, chinees, Sweets"
-        },
-        {
-            "id":4,
-            "name":"Pure veg dhabha",
-            "cost for one": 150,
-            "rating":3,
-            "paymentMethod":"Cash",
-            "total votes":200,
-            "review":500,
-            "categories":"Indian, Thali, Biryani"
-        },
-        {
-            "id":5,
-            "name":"Khana khajana resturants",
-            "cost for one": 250,
-            "rating":3,
-            "paymentMethod":"Casth",
-            "total votes":300,
-            "review":500,
-            "categories":"Indian, chinees, italian"
-        },
-        {
-            "id":6,
-            "name":"Khana khajana resturants",
-            "cost for one": 250,
-            "rating":3,
-            "paymentMethod":"Casth",
-            "total votes":300,
-            "review":500,
-            "categories":"Indian, chinees, italian"
-        },
-        {
-            "id":7,
-            "name":"Khana khajana resturants",
-            "cost for one": 250,
-            "rating":3,
-            "paymentMethod":"Casth",
-            "total votes":300,
-            "review":500,
-            "categories":"Indian, chinees, italian"
-        },
-        {
-            "id":8,
-            "name":"Khana khajana resturants",
-            "cost for one": 250,
-            "rating":3,
-            "paymentMethod":"Casth",
-            "total votes":300,
-            "review":500,
-            "categories":"Indian, chinees, italian"
-        },
-        {
-            "id":9,
-            "name":"Khana khajana resturants",
-            "cost for one": 250,
-            "rating":3,
-            "paymentMethod":"Casth",
-            "total votes":300,
-            "review":500,
-            "categories":"Indian, chinees, italian"
-        },
-        {
-            "id":10,
-            "name":"Khana khajana resturants",
-            "cost for one": 250,
-            "rating":3,
-            "paymentMethod":"Casth",
-            "total votes":300,
-            "review":500,
-            "categories":"Indian, chinees, italian"
-        },
-        {
-            "id":11,
-            "name":"Khana khajana resturants",
-            "cost for one": 250,
-            "rating":3,
-            "paymentMethod":"Casth",
-            "total votes":300,
-            "review":500,
-            "categories":"Indian, chinees, italian"
-        },
-        {
-            "id":13,
-            "name":"Khana khajana resturants",
-            "cost for one": 250,
-            "rating":3,
-            "paymentMethod":"Casth",
-            "total votes":300,
-            "review":500,
-            "categories":"Indian, chinees, italian"
-        },
-        {
-            "id":14,
-            "name":"Khana khajana resturants",
-            "cost for one": 250,
-            "rating":3,
-            "paymentMethod":"Casth",
-            "total votes":300,
-            "review":500,
-            "categories":"Indian, chinees, italian"
-        },
-        {
-            "id":15,
-            "name":"Khana khajana resturants",
-            "cost for one": 250,
-            "rating":3,
-            "paymentMethod":"Casth",
-            "total votes":300,
-            "review":500,
-            "categories":"Indian, chinees, italian"
-        },
-        {
-            "id":16,
-            "name":"Khana khajana resturants",
-            "cost for one": 250,
-            "rating":3,
-            "paymentMethod":"Casth",
-            "total votes":300,
-            "review":500,
-            "categories":"Indian, chinees, italian"
-        },
-        {
-            "id":17,
-            "name":"Khana khajana resturants",
-            "cost for one": 250,
-            "rating":3,
-            "paymentMethod":"Casth",
-            "total votes":300,
-            "review":500,
-            "categories":"Indian, chinees, italian"
-        },
-        {
-            "id":18,
-            "name":"Khana khajana resturants",
-            "cost for one": 250,
-            "rating":3,
-            "paymentMethod":"Casth",
-            "total votes":300,
-            "review":500,
-            "categories":"Indian, chinees, italian"
-        },
-        {
-            "id":19,
-            "name":"Khana khajana resturants",
-            "cost for one": 250,
-            "rating":3,
-            "paymentMethod":"Casth",
-            "total votes":300,
-            "review":500,
-            "categories":"Indian, chinees, italian"
-        },
-        {
-            "id":20,
-            "name":"Khana khajana resturants",
-            "cost for one": 250,
-            "rating":3,
-            "paymentMethod":"Casth",
-            "total votes":300,
-            "review":500,
-            "categories":"Indian, chinees, italian"
-        }
-    ]
+  "data": [
+    {
+      "id": 1,
+      "name": "Khana khajana resturants",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "price": 250,
+      "rating": 3,
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "votes": 300,
+      "review": 500,
+      "categories": "Indian, chinees, italian"
+    },
+    {
+      "id": 2,
+      "name": "Punjabi dhabha",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "cost for one": 150,
+      "rating": 3,
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "total votes": 200,
+      "review": 500,
+      "categories": "Indian, punjabi"
+    },
+    {
+      "id": 3,
+      "name": "Agrawal Sweets",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "cost for one": 200,
+      "rating": 3,
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "total votes": 350,
+      "review": 500,
+      "categories": "Indian, chinees, Sweets"
+    },
+    {
+      "id": 4,
+      "name": "Pure veg dhabha",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "cost for one": 150,
+      "rating": 3,
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "total votes": 200,
+      "review": 500,
+      "categories": "Indian, Thali, Biryani"
+    },
+    {
+      "id": 5,
+      "name": "Khana khajana resturants",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "cost for one": 250,
+      "rating": 3,
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "total votes": 300,
+      "review": 500,
+      "categories": "Indian, chinees, italian"
+    },
+    {
+      "id": 6,
+      "name": "Khana khajana resturants",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "cost for one": 250,
+      "rating": 3,
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "total votes": 300,
+      "review": 500,
+      "categories": "Indian, chinees, italian"
+    },
+    {
+      "id": 7,
+      "name": "Khana khajana resturants",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "cost for one": 250,
+      "rating": 3,
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "total votes": 300,
+      "review": 500,
+      "categories": "Indian, chinees, italian"
+    },
+    {
+      "id": 8,
+      "name": "Khana khajana resturants",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "cost for one": 250,
+      "rating": 3,
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "total votes": 300,
+      "review": 500,
+      "categories": "Indian, chinees, italian"
+    },
+    {
+      "id": 9,
+      "name": "Khana khajana resturants",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "cost for one": 250,
+      "rating": 3,
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "total votes": 300,
+      "review": 500,
+      "categories": "Indian, chinees, italian"
+    },
+    {
+      "id": 10,
+      "name": "Khana khajana resturants",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "cost for one": 250,
+      "rating": 3,
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "total votes": 300,
+      "review": 500,
+      "categories": "Indian, chinees, italian"
+    },
+    {
+      "id": 11,
+      "name": "Khana khajana resturants",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "cost for one": 250,
+      "rating": 3,
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "total votes": 300,
+      "review": 500,
+      "categories": "Indian, chinees, italian"
+    },
+    {
+      "id": 13,
+      "name": "Khana khajana resturants",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "cost for one": 250,
+      "rating": 3,
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "total votes": 300,
+      "review": 500,
+      "categories": "Indian, chinees, italian"
+    },
+    {
+      "id": 14,
+      "name": "Khana khajana resturants",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "cost for one": 250,
+      "rating": 3,
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "total votes": 300,
+      "review": 500,
+      "categories": "Indian, chinees, italian"
+    },
+    {
+      "id": 15,
+      "name": "Khana khajana resturants",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "cost for one": 250,
+      "rating": 3,
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "total votes": 300,
+      "review": 500,
+      "categories": "Indian, chinees, italian"
+    },
+    {
+      "id": 16,
+      "name": "Khana khajana resturants",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "cost for one": 250,
+      "rating": 3,
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "total votes": 300,
+      "review": 500,
+      "categories": "Indian, chinees, italian"
+    },
+    {
+      "id": 17,
+      "name": "Khana khajana resturants",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "cost for one": 250,
+      "rating": 3,
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "total votes": 300,
+      "review": 500,
+      "categories": "Indian, chinees, italian"
+    },
+    {
+      "id": 18,
+      "name": "Khana khajana resturants",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "cost for one": 250,
+      "rating": 3,
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "total votes": 300,
+      "review": 500,
+      "categories": "Indian, chinees, italian"
+    },
+    {
+      "id": 19,
+      "name": "Khana khajana resturants",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "cost for one": 250,
+      "rating": 3,
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "total votes": 300,
+      "review": 500,
+      "categories": "Indian, chinees, italian"
+    },
+    {
+      "id": 20,
+      "name": "Khana khajana resturants",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "cost for one": 250,
+      "rating": 3,
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "total votes": 300,
+      "review": 500,
+      "categories": "Indian, chinees, italian"
+    },
+    {
+      "name": "khana",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "price": "345",
+      "rating": "4",
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "votes": "2500",
+      "review": "356",
+      "catgories": "Indian",
+      "id": 21
+    },
+    {
+      "name": "Ram bharoshe dhabha",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "price": "250",
+      "rating": "2",
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "votes": "2500",
+      "review": "500",
+      "catgories": "Indian",
+      "id": 22
+    },
+    {
+      "name": "Shayam restorant",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPISkREjmuiVgxCI_ooiA8lcSAx6kgV30vfxrFi2u9fr_oE7-USV8f78ofGw0D5XRp8&usqp=CAU",
+      "price": "130",
+      "rating": "4",
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "votes": "230",
+      "review": "3200",
+      "catgories": "Indian",
+      "id": 23
+    },
+    {
+      "name": "Padmavati bhojnalay",
+      "img": "https://assets.bonappetit.com/photos/61ba70da510874520d257b78/16:9/w_1599,h_899,c_limit/LEDE_Oma's%20Hideaway,%20Credit%20Christine%20Dong.jpg",
+      "price": "180",
+      "rating": "5",
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "votes": "5000",
+      "review": "25000",
+      "catgories": "Indian, thali",
+      "id": 24
+    },
+    {
+      "name": "Shiva dhabha",
+      "img": "https://assets.bonappetit.com/photos/61ba70da510874520d257b78/16:9/w_1599,h_899,c_limit/LEDE_Oma's%20Hideaway,%20Credit%20Christine%20Dong.jpg",
+      "price": "250",
+      "rating": "3",
+      "payment": {
+        "card": true,
+        "cash": true,
+        "upi": true
+
+      },
+      "votes": "2500",
+      "review": "6300",
+      "catgories": "Indian, thali",
+      "id": 25
+    }
+  ]
 }
