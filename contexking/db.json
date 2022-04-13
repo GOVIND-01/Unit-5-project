@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Govind Singh",
+      "age": "24",
+      "date_of_birth": "1998-06-25",
+      "state_of_residence": "UTTARAKHAND",
+      "address": "Village - Kwairali, Post Office - Gurna",
+      "pin_code": "263619",
+      "id": 1
+    },
+    {
+      "name": "Ram",
+      "age": "22",
+      "date_of_birth": "2000-04-15",
+      "state_of_residence": "National Capital Territory",
+      "address": "H.No. 464, Street No. 09,",
+      "pin_code": "110094",
+      "id": 2
+    },
+    {
+      "name": "Ram",
+      "age": "22",
+      "date_of_birth": "2000-04-15",
+      "state_of_residence": "National Capital Territory",
+      "address": "H.No. 464, Street No. 09,",
+      "pin_code": "110094",
+      "id": 3
+    },
+    {
+      "name": "Ram",
+      "age": "22",
+      "date_of_birth": "2000-04-15",
+      "state_of_residence": "National Capital Territory",
+      "address": "H.No. 464, Street No. 09,",
+      "pin_code": "110094",
+      "id": 4
+    }
+  ]
+}
